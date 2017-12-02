@@ -1,0 +1,23 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "New Your Times React Express Mongo-Mongoose Project for Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmonreal44094/nytreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmonreal44094/nytreact/issues"
+  },
+  "homepage": "https://github.com/bmonreal44094/nytreact#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
